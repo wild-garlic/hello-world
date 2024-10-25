@@ -1,0 +1,10 @@
+{
+    "name": "wild-garlic/hello-world",
+    "description": "A basic \"Hello, World\" example.",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "WildGarlic\\HelloWorld\\": "./"
+        }
+    }
+}
